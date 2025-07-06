@@ -1,0 +1,360 @@
+Base de données
+21 juin 
+Newcastle vs Tottenham:1-4
+Bayern Munich vs Porto :3-7
+Napoli vs Manchester United :2-3
+At Madrid vs psv Eindhoven :1-2
+Borussia vs Arsenal :1-1
+Manchester city vs Real Madrid :3-2
+Internazional vs Real Madrid :2-4
+Arsenal vs Manchester city :3-2
+PSV Eindhoven vs Borussia :0-5
+Manchester United vs at Madrid :2-3
+Porto vs Napoli :3-1
+Tottenham vs Bayern Munich :1-5
+Paris vs Newcastle :3-1
+Galatasaray vs bayer 04 :1-2
+Juventus vs Milan :0-2
+Liverpool vs Barcelona :1-2
+Barcelona vs internazional :4-2
+Milan vs Liverpool :1-1
+Bayer 04 vs Juventus :1-1
+Newcastle vs galatasaray :1-3
+Bayern Munich vs Paris :2–2
+Napoli vs Tottenham :1-6
+At Madrid vs Porto :4-1
+Borussia vs Manchester United :2-1
+Manchester city vs psv Eindhoven :4-1
+Real Madrid vs Arsenal :3-2
+Internazional vs Arsenal :5-0
+PSV Eindhoven vs Real Madrid :3-4
+Manchester United vs Manchester city :1-2
+Porto vs Borussia :4-1
+Tottenham vs at Madrid :0-0
+Paris vs Napoli :1-2
+Gay so Bayern Munich :2-1
+Juventus vs Newcastle :2-2
+Liverpool vs Bayer 04 :1-3
+Barcelona vs Milan :2-1
+Milan vs internazional :2-1
+Newcastle vs Liverpool :0-2
+Bayern Munich vs Juventus :2-2
+At Madrid vs Paris :1-2
+Borussia vs Tottenham :2-2
+Manchester city vs Porto :2-2
+Real Madrid vs Manchester United :2-2
+Arsenal vs psv Eindhoven :3-1
+Internazional vs psv Eindhoven :3-3
+Manchester United vs Arsenal :1-3
+Porto vs Real Madrid 1-1
+Tottenham vs Manchester city :3-2
+Paris vs Borussia :4-1
+Galatasaray vs at Madrid :1-1
+Juventus vs Napoli :4-1
+Liverpool vs Bayern Munich : 0-1
+Barcelona vs Newcastle :1-0
+Milan vs bayer 04 :3-0
+Bayer 04 vs internazional :2-4
+Newcastle vs Milan :6-5
+Bayern Munich vs Barcelona :1-6
+Napoli vs Liverpool :5-3
+At Madrid vs Juventus :4-0
+Borussia vs galatasaray :1-2
+Manchester city vs Paris :0-3
+Real Madrid vs Tottenham :1-3
+Arsenal vs Porto :2-2
+PSV Eindhoven vs Manchester United :6-1
+Internazional vs Manchester United :2-1
+PSV Eindhoven vs Porto :3-0
+Arsenal vs Tottenham :0-2
+Real Madrid vs Paris :1-2
+Manchester city vs galatasaray :1-0
+Borussia vs Juventus :2-1
+At Madrid vs Liverpool :3-3
+Napoli vs Barcelona :3-1
+Bayern Munich vs Milan :2-3
+Newcastle vs bayer 04 :5-1
+Newcastle vs internazional :2-2
+Milan vs Napoli :2-1
+Barcelona vs at Madrid :1-1
+Liverpool vs Borussia :2-2
+Juventus vs Manchester city :1-1
+Galatasaray vs Real Madrid :3-3
+Paris vs Arsenal :2-1
+Tottenham vs psv Eindhoven :2-3
+Porto vs Manchester United :1-4
+Internazional vs Porto :2-2
+Manchester United vs Tottenham :4-0
+PSV Eindhoven vs Paris :4-2
+Arsenal vs galatasaray :3-1
+Real Madrid vs Juventus :3-0
+Manchester city vs Liverpool :4-3
+Borussia vs Barcelona :5-1
+At Madrid vs Milan :4-5
+Napoli vs bayer 04 :4-5
+Bayern Munich vs Newcastle :2-1
+Bayern Munich vs internazional :1-1
+Newcastle vs Napoli :2-2
+Bayer 04 vs at Madrid :2-3
+Milan vs Borussia :3-4
+Barcelona vs Manchester city :5-2
+Liverpool vs Real Madrid :3-2
+Juventus vs Arsenal :1-3
+Galatasaray vs psv Eindhoven :0-3
+Paris vs Manchester United :3-1
+Tottenham vs Porto :1-3
+Internazional vs Tottenham :3-1
+Porto vs Paris :4-2
+Manchester United vs galatasaray :3-0
+PSV Eindhoven vs Juventus :1-2
+Arsenal vs Liverpool :3-4
+Real Madrid vs Barcelona :2-4
+Manchester city vs Milan :3-2
+Borussia vs bayer 04 :3-4
+At Madrid vs Newcastle :2-3
+Napoli vs Bayern Munich :1-1
+Napoli vs internazional :2-3
+Bayern Munich vs at Madrid :2-2
+Newcastle vs Borussia :5-2
+Bayer 04 vs Manchester city :0-2
+Milan vs Real Madrid :3-2
+Barcelona vs Arsenal :1-1
+Liverpool vs psv Eindhoven :3-2
+Juventus vs Manchester United :3-0
+Galatasaray vs Porto :5-3
+Paris vs Tottenham :3-2
+Internazional vs Paris :1-1
+Tottenham vs galatasaray :2-7
+Porto vs Juventus :3-1
+Manchester United vs Liverpool :5-2
+PSV Eindhoven vs Barcelona :2-3
+Arsenal vs Milan :5-1
+Real Madrid vs bayer 04 :6-3
+Manchester city vs Newcastle :4-1
+Borussia vs Bayern Munich :2-1
+At Madrid vs Napoli :3-2
+At Madrid vs internazional :0-2
+Napoli vs Borussia :5-1
+Bayern Munich vs Manchester city :4-4
+Newcastle vs Real Madrid 4-1
+Bayer 04 vs Arsenal :2-2
+Milan vs psv Eindhoven :4-4
+Barcelona vs Manchester United 5-1
+Liverpool vs Porto :2-2
+
+22 juin 
+Juventus vs Tottenham: 3-2 
+Galatasaray vs Paris : 3-5 
+Internazionale vs Galatasaray : 5-4
+Paris vs Juventus : 3-2
+Tottenham vs Liverpool : 1-3
+Porto vs Barcelona : 1-3
+Manchester United vs Milan : 3-0
+PSV Eindhoven vs bayer 04 : 3-2
+Arsenal vs Newcastle : 2-3
+Real Madrid vs Bayern Munich : 2-3
+Manchester city vs Napoli 0-1
+Borussia vs at Madrid : 5-0
+Borussia vs Internazionale : 3-0
+at Madrid vs Manchester city : 4-3
+Napoli vs Real Madrid : 2-3
+Bayern Munich vs Arsenal : 1-2
+Newcastle vs PSV Eindhoven : 1-3
+bayer 04 vs Manchester United : 2-4
+Milan vs porto : 2:4
+Barcelona vs Tottenham : 4-1
+Liverpool vs Paris : 1:3
+Juventus vs Galatasaray : 4-1
+Internazional vs Juventus : 2-1
+Galatasaray vs Liverpool : 3-2
+Paris vs Barcelona : 3-2
+Tottenham vs Milan : 1-2
+Porto vs bayer 04 : 1-3
+Manchester United vs Newcastle : 5-2
+PSV Eindhoven vs Bayern Munich : 3-2
+Real Madrid vs at Madrid : 3-1
+Manchester city vs Borussia : 3-1
+Manchester city vs internazional : 3-1
+Borussia vs Real Madrid : 1-2
+At Madrid vs Arsenal : 1-3
+Napoli vs PSV Eindhoven : 2-1
+Bayern Munich vs Manchester United : 0-2
+Manchester vs Porto : 3-0
+Bayer 04 vs Tottenham : 1-3
+Milan vs Paris : 1-3
+Barcelona vs galatasaray : 1-0
+Liverpool vs Juventus : 0-3
+internazional vs Liverpool : 2-2
+Juventus vs Barcelona : 0-0 
+Galatasaray vs Milan : 2-2
+Paris vs bayer 04 : 1-5
+Tottenham vs Newcastle : 2-5
+Porto vs Bayern Munich : 3-2
+Manchester United vs Napoli : 2-3
+PSV Eindhoven vs at Madrid : 3-2
+Arsenal vs Borussia : 0-3
+Real Madrid vs Manchester city : 3-2
+Real Madrid vs internazional : 2-1 
+Manchester city vs Arsenal : 3-3 
+Borussia vs PSV Eindhoven : 4-1 
+At Madrid vs Manchester United : 0-1 
+Napoli vs Porto : 5-0
+Bayern Munich vs Tottenham : 3-3
+Newcastle vs Paris : 1-1
+Bayer 04 vs galatasaray : 4-3
+Milan vs Juventus : 0-1
+Barcelona vs Liverpool : 2-3
+Internazional vs Barcelona : 4-4
+Liverpool vs Milan : 4-0
+Juventus vs bayer 04 : 3-1
+Galatasaray vs Newcastle : 4-1 
+Paris vs Bayern Munich : 5-4
+Tottenham vs Napoli : 2-4
+Porto vs at Madrid : 6-2
+Manchester United vs Borussia : 1-3
+PSV Eindhoven vs Manchester city : 2-2 
+Arsenal vs Real Madrid : 1-4 
+Arsenal vs internazional : 1-0
+Real Madrid vs PSV Eindhoven : 6-3
+Manchester city vs Manchester United : 1-2
+Borussia vs Porto : 1-3
+At Madrid vs Tottenham : 3-3
+Napoli vs Paris : 3-0
+Bayern Munich vs galatasaray : 3-2 
+Newcastle vs Juventus : 3-2
+Bayer 04 vs Liverpool : 4-2
+Milan vs Barcelona : 6-2
+Internazional vs Milan : 4-2
+Barcelona vs bayer 04 : 2-2
+Liverpool Vs Newcastle : 5-1
+Juventus vs Bayern Munich : 3-5
+Galatasaray vs Napoli : 2-1
+Paris vs at Madrid : 1-2
+Tottenham vs Borussia : 2-2
+Porto vs Manchester city : 5-3
+Manchester United vs Real Madrid : 1-4
+PSV Eindhoven vs Arsenal : 2-4
+PSV Eindhoven vs internazional : 2-1
+Arsenal vs Manchester United : 4-2 
+Real Madrid vs Porto : 4-2
+Manchester city vs Tottenham : 2-1
+At Madrid vs galatasaray : 2-2
+Napoli vs Juventus : 5-0
+Bayern Munich vs Liverpool : 1-3
+Newcastle vs Barcelona : 1-2
+Bayer 04 vs Milan : 2-3
+Internazional vs bayer 04 : 1-2 
+Milan vs Newcastle : 1-2
+Barcelona vs Bayern Munich : 3-1
+Liverpool vs Napoli : 1-0
+Juventus vs at Madrid : 5-1
+Galatasaray vs Borussia : 0-4
+Paris  vs Manchester city : 2-5
+Tottenham vs Real Madrid : 2-2
+Porto vs Arsenal : 1-2 
+Manchester United vs PSV Eindhoven : 0-1
+Juventus vs Arsenal : 3-1
+Galatasaray vs Paris saint germain : 2-0
+Milan vs Tottenham : 3-2
+Internazional vs Newcastle : 2-1
+At Madrid vs Liverpool : 1-0
+Borussia vs bayer 04 : 4-7
+Bayern Munich vs PSV Eindhoven : 2-2
+Napoli vs Barcelona : 4-0
+Real Madrid vs Manchester city : 3-0
+Manchester United vs Porto : 1-1
+Arsenal vs Porto : 2-5
+Manchester city vs Manchester United : 3-3
+Barcelona vs Real Madrid : 1-3
+PSV Eindhoven vs Napoli : 1-1 
+Bayer 04 vs Bayern Munich : 1-2
+Liverpool vs Borussia : 0-3
+Newcastle vs at Madrid : 3-2
+Tottenham vs internazional : 2-1
+Paris vs Milan : 2-3
+Juventus vs galatasaray : 2-3
+Galatasaray vs Arsenal : 2-3
+Milan vs Juventus : 1-1
+Internazional vs Paris : 2-4
+At Madrid vs Tottenham : 3-1
+Borussia vs Newcastle : 4-2
+Bayern Munich vs Liverpool : 0-2
+Napoli vs bayer 04 : 4-1
+Real Madrid vs PSV Eindhoven : 2-1
+Manchester United vs Barcelona : 4-1
+Porto vs Manchester city : 0-3
+Arsenal vs Manchester city : 1-2
+
+ 23 juin
+
+PSV Eindhoven vs Manchester United : 3-3
+Bayer 04 vs Real Madrid : 0-1
+Liverpool vs Napoli : 2-2
+Newcastle vs Bayern Munich : 3-4
+Tottenham vs Borussia : 2-4
+Paris vs at Madrid : 3-1
+Juventus vs internazional : 0-2
+Galatasaray vs Milan : 0-2
+Milan vs Arsenal : 4-1
+Internazional vs galatasaray : 3-1
+At Madrid vs Juventus : 1-1
+Borussia vs Paris : 3-1
+Bayern Munich vs Tottenham : 3-2
+Napoli vs Newcastle : 1-1
+Real Madrid vs Liverpool : 3-1
+Manchester United vs bayer 04 : 1-1
+Porto vs PSV Eindhoven : 0-3
+Manchester city vs Barcelona : 1-4
+Arsenal vs Barcelona : 2-5
+PSV Eindhoven vs Manchester city : 2-1
+Bayer 04 vs Porto : 2-1
+Liverpool vs Manchester United : 3-2
+Newcastle vs Real Madrid : 1-3
+Tottenham vs Napoli : 2-2
+Paris vs Bayern Munich : 3-2
+Juventus vs Borussia : 3-0
+Galatasaray vs at Madrid : 2-2
+Milan vs internazional : 5-3
+Internazional vs Arsenal : 4-6
+At Madrid vs Milan : 2-2
+Borussia vs galatasaray : 1-2 
+Bayern Munich vs Juventus : 4-3
+Napoli vs Paris : 3-2
+Real Madrid vs Tottenham : 3-0
+Porto vs Liverpool : 0-1
+Manchester city vs bayer 04 : 3-3
+Barcelona vs PSV Eindhoven : 4-1
+Arsenal vs PSV Eindhoven : 3-2
+Bayer 04 vs Barcelona : 2-2
+Liverpool vs Manchester city : 1-1
+Newcastle vs Porto : 2-0
+Tottenham vs Manchester United : 3-4
+Paris vs Real Madrid : 2-1
+Juventus vs Napoli : 1-4
+Galatasaray vs Bayern Munich : 5-5
+Milan vs Borussia : 1-1
+Internazional vs at Madrid : 1-2
+At Madrid vs Arsenal : 4-3
+Borussia vs internazional : 2-2
+Bayern Munich vs Milan : 1-4
+Napoli vs galatasaray : 4-3
+Real Madrid vs Juventus : 1-2
+Manchester United vs Paris : 3-1
+Porto vs Tottenham : 4-3 
+Manchester city vs Newcastle : 1-1
+Barcelona vs Liverpool : 2-2
+Psv Eindhoven vs bayer 04 : 2-4
+Arsenal vs bayer 04 : 1-3
+Liverpool vs psv Eindhoven : 2-0
+Newcastle vs Barcelona : 2-3
+Tottenham vs Manchester city : 1-4
+Paris vs Porto : 2-1 
+Juventus vs Manchester United : 1-1
+Galatasaray vs real Madrid : 0-3 
+Milan vs Napoli : 2-4
+Internazional vs Bayern Munich : 5-3
+At Madrid vs Borussia : 4-3
+Borussia vs Arsenal : 2-4
+Bayern Munich vs at Madrid : 3-1
+Napoli vs internazional : 6-4
+Real Madrid vs Milan 0-4
