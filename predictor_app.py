@@ -11,13 +11,13 @@ def parse_match_line(line):
         return match.group(1).strip().lower(), match.group(2).strip().lower(), int(match.group(3)), int(match.group(4))
     return None
 
-def load_matches(file_path):
+def load_matches(uploaded_file):
     matches = []
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            parsed = parse_match_line(line)
-            if parsed:
-                matches.append(parsed)
+    for line in uploaded_file:
+        decoded_line = line.decode('utf-8')
+        parsed = parse_match_line(decoded_line)
+        if parsed:
+            matches.append(parsed)
     return pd.DataFrame(matches, columns=['team1', 'team2', 'score1', 'score2'])
 
 def team_stats(df):
